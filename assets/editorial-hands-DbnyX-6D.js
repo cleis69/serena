@@ -1,1 +1,0 @@
-var e=`/serena/assets/editorial-hands-D-S2xMuW.jpg`;export{e as t};

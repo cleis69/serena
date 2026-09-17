@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-GckyTt.js";var t=e;export{t as component};
