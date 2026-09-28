@@ -1,1 +1,0 @@
-var e=`/serena/assets/photo-mise-en-place-CwR2Q5Q8.jpg`,t=`/serena/assets/photo-accueil-comptoir-B4TJlKOb.jpg`;export{e as n,t};
