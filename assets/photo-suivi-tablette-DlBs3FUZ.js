@@ -1,1 +1,0 @@
-var e=`/serena/assets/photo-suivi-tablette-BL7IEWGH.jpg`;export{e as t};

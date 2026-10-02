@@ -1,1 +1,0 @@
-var e=`/serena/assets/photo-entretien-ck40Zspr.jpg`;export{e as t};
